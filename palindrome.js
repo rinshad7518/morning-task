@@ -12,4 +12,4 @@ function palindrome(val) {
     }
 
 }
-console.log(palindrome(-121))
+console.log(palindrome(121))
