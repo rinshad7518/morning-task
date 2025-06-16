@@ -3,7 +3,7 @@ arr2 = new Set(arr)
 arr3 = [...arr2]
 console.log(arr3)
 
-// function Duplicates(nums) {
+// function remDuplicates(nums) {
 
 //     let dupes = []
 //     if (nums.length === 0) {
@@ -18,8 +18,4 @@ console.log(arr3)
 //     }
 //     return dupes;
 // }
-// console.log(Duplicates([0, 0, 1, 1, 2, 2, 3, 3, 4]))
-
-
-
-
+// console.log(remDuplicates([0, 0, 1, 1, 2, 2, 3, 3, 4]))
