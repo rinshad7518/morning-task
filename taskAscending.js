@@ -16,6 +16,10 @@ const products = [
         price: 200
     }
 ];
+
+// let sortArr= products.sort((a.price,b.price)=>{
+// a-b
+// })
 // let sum=0
 // for(vals of products){
 // sum+=vals.price
